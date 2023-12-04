@@ -1,0 +1,4 @@
+screenResolution=1920,1080
+gameResolution=1600,900
+rounds=100
+campaignLevel=1
